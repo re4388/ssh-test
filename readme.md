@@ -19,5 +19,3 @@ https://blog.jaycetyle.com/2018/02/github-ssh/
    2. enter your choose name to enter title/name
    3. paste the key you copied from xxx.pub
 5. And then you later will be able to use SSH to push/pull
-
-TEST
